@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tabs-vs-spaces-mysql:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/tabs_vs_spaces_mysql_war</output-path>
+    <root id="archive" name="tabs-vs-spaces-mysql_war.war">
+      <element id="artifact" artifact-name="tabs-vs-spaces-mysql:war exploded" />
+    </root>
+  </artifact>
+</component>
